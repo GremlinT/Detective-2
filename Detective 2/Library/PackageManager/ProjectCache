@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/Projects/Detective 2/Detective 2/Packages/manifest.json
+    m_FilePath: D:/Projects/Detective 2/Detective-2/Detective 2/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 638943915100884293
     m_Hash: 2321490533
   m_LockFileStatus:
-    m_FilePath: D:/Projects/Detective 2/Detective 2/Packages/packages-lock.json
+    m_FilePath: D:/Projects/Detective 2/Detective-2/Detective 2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: D:/Projects/Detective 2/Detective 2/Packages
+m_ProjectPath: D:/Projects/Detective 2/Detective-2/Detective 2/Packages
 m_EditorVersion: 6000.1.15f1 (faa32412f6c9)
 m_ResolvedPackages:
 - packageId: com.unity.ai.navigation@2.0.8
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.8
   source: 1
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -142,7 +142,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.9.3
   source: 1
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Unity Version Control
@@ -311,7 +311,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.36
   source: 1
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -434,7 +434,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.23
   source: 1
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -540,7 +540,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.0
   source: 1
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.inputsystem@7fe8299111a7
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.inputsystem@7fe8299111a7
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -693,7 +693,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -783,7 +783,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.1.0
   source: 2
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.render-pipelines.universal@5251a026f8b9
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.render-pipelines.universal@5251a026f8b9
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -945,7 +945,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.5.1
   source: 2
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.test-framework@78fc86e3183e
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.test-framework@78fc86e3183e
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1083,7 +1083,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.timeline@c58b4ee65782
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.timeline@c58b4ee65782
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1271,7 +1271,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.ugui@1a71b488df3e
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.ugui@1a71b488df3e
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1366,7 +1366,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.7
   source: 1
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -3910,7 +3910,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 2
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.ext.nunit@031a54704bff
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3989,7 +3989,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.1.0
   source: 2
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.render-pipelines.core@943f3af6fe14
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.render-pipelines.core@943f3af6fe14
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -4203,7 +4203,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.1.0
   source: 2
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.shadergraph@8d13f365c663
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.shadergraph@8d13f365c663
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -4406,7 +4406,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.render-pipelines.universal-config@8dc1aab4af1d
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.render-pipelines.universal-config@8dc1aab4af1d
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -4504,7 +4504,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.3
   source: 1
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.searcher@1e17ce91558d
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.searcher@1e17ce91558d
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -4591,7 +4591,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.23
   source: 1
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.burst@6aff1dd08a0c
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.burst@6aff1dd08a0c
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -4814,7 +4814,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.mathematics@8017b507cc74
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.mathematics@8017b507cc74
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -4903,7 +4903,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.collections@56bff8827a7e
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.collections@56bff8827a7e
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -5082,7 +5082,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.rendering.light-transport@e647573c7d2a
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.rendering.light-transport@e647573c7d2a
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -5178,7 +5178,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.4
   source: 1
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -5260,7 +5260,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.1.0
   source: 1
-  resolvedPath: D:\Projects\Detective 2\Detective 2\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
+  resolvedPath: D:\Projects\Detective 2\Detective-2\Detective 2\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
